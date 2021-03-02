@@ -1,5 +1,5 @@
 // Please include header (lab19.h) here.
-
+#include<\\filesrv\User_Files$\tananun_c\Desktop\Lab\Lab19\lab19.h>
 int main(){
 	srand(time(0));
 	Unit hero,mons;
